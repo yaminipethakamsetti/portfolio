@@ -8,7 +8,7 @@ const Education = () => {
       institution: "Aditya Degree College",
       university: "ADIKAVI NANNAYA UNIVERSITY",
       duration: "Jul 2023 - Mar 2026",
-      details: "Cumulative GPA: 8.5"
+      details: "Cumulative GPA: 8.50"
     },
     {
       degree: "INTERMEDIATE",
