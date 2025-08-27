@@ -28,7 +28,7 @@ const Contact = () => {
     {
       icon: FaMapMarkerAlt,
       title: "Location",
-      value: "Andhra Pradesh, India",
+      value: "Tuni",
       color: "from-blue-500 to-purple-500"
     },
     {
@@ -46,7 +46,7 @@ const Contact = () => {
     {
       icon: FaLinkedin,
       title: "LinkedIn",
-      value: "Connect with me",
+      value: "Click here",
       link: "https://linkedin.com/in/your-profile",
       color: "from-blue-600 to-blue-700"
     }

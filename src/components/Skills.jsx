@@ -1,14 +1,13 @@
 import React from 'react';
-import { FaCode, FaDatabase, FaJava, FaPython } from 'react-icons/fa';
-import { SiCplusplus } from 'react-icons/si';
+import { FaCode, FaDatabase, FaJava, FaPython, FaShieldAlt } from 'react-icons/fa';
 
 const Skills = () => {
   const technicalSkills = [
-    { name: "C Programming Language", icon: FaCode, level: 85 },
-    { name: "Java Programming Language", icon: FaJava, level: 70 },
-    { name: "Python Programming Language", icon: FaPython, level: 75 },
-    { name: "C++ Programming Language", icon: SiCplusplus, level: 80 },
-    { name: "Database Management System", icon: FaDatabase, level: 65 }
+    { name: "C Programming Language (Proficient)", icon: FaCode, level: 90 },
+    { name: "Python Programming Language (Experienced)", icon: FaPython, level: 75 },
+    { name: "Java Programming Language (Familiar)", icon: FaJava, level: 60 },
+    { name: "Database Management Systems (Knowledge of)", icon: FaDatabase, level: 60 },
+    { name: "Cybersecurity Fundamentals (Familiar)", icon: FaShieldAlt, level: 60 }
   ];
 
   return (

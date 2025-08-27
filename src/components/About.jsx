@@ -57,9 +57,8 @@ const About = () => {
             </div>
             <h4 className="text-xl font-bold mb-2 text-gray-800">Hobbies</h4>
             <div className="text-gray-600 space-y-1">
-              <p>Cooking</p>
+              <p>Participating in coding challenges on HackerRank</p>
               <p>Reading Books</p>
-              <p>Browsing</p>
             </div>
           </div>
 

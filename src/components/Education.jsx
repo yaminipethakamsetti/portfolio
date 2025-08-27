@@ -8,7 +8,7 @@ const Education = () => {
       institution: "Aditya Degree College",
       university: "ADIKAVI NANNAYA UNIVERSITY",
       duration: "Jul 2023 - Mar 2026",
-      details: "Cumulative GPA: 8.50"
+      details: "Cumulative GPA: 9.0"
     },
     {
       degree: "INTERMEDIATE",
@@ -16,14 +16,24 @@ const Education = () => {
       university: "",
       duration: "Jul 2021 - May 2023",
       details: "MPC with an aggregate of 70%"
+    },
+    {
+      degree: "SECONDARY SCHOOL CERTIFICATE",
+      institution: "",
+      university: "",
+      duration: "Jul 2020 - Mar 2021",
+      details: "Aggregate: 85%"
     }
   ];
 
   const certifications = [
     "Me Pro Pearson from the makers of PTE and Global Scale of English. (GSE)",
-    "Certification on competitive coding training on C & C++ programming language by Criativo e-learning.",
+    "Certification on competitive coding training on C programming language by Criativo e-learning.",
     "Certification in Basic Python programming language provided by KAGGLE.",
-    "Certification by a DigiSaksham program, a joint Digital skills initiative by Microsoft focused on essentials of Generative AI."
+    "Certified in Python Essentials 1 & 2 through CISCO NETACAD.",
+    "Certified in HTML5 Application Development through CERTIPORT, CERTNEXUS, and PEARSON.",
+    "Certification on Basics of Cyber Security provided by the CISCO NETACAD.",
+    "Certified in TCS ION Career Edge – young professionals course."
   ];
 
   return (

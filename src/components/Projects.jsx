@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaUsers, FaCalendarAlt, FaHeart, FaLightbulb } from 'react-icons/fa';
+import { FaUsers, FaCalendarAlt, FaHeart, FaLightbulb, FaCode } from 'react-icons/fa';
 
 const Projects = () => {
   const projects = [
@@ -14,6 +14,17 @@ const Projects = () => {
       ],
       icon: FaHeart,
       color: "from-pink-500 to-red-500"
+    },
+    {
+      title: "MERN Full Stack Development Internship - Adhoc Network",
+      duration: "Apr 16, 2025 - Jun 17, 2025",
+      description: "Completed a short-term internship building end-to-end web applications using the MERN stack.",
+      achievements: [
+        "Built end-to-end web applications, enhancing front-end and back-end development skills.",
+        "Developed problem-solving skills through project-based tasks."
+      ],
+      icon: FaCode,
+      color: "from-green-500 to-blue-500"
     }
   ];
 
